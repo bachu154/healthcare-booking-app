@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Asha Mehta",
+    "specialization": "Cardiologist",
+    "profileImage": "/placeholder.svg?height=200&width=200",
+    "availability": "Available Today",
+    "schedule": ["2025-08-03T10:00", "2025-08-03T14:00", "2025-08-03T16:30"],
+    "experience": "15 years",
+    "rating": 4.8,
+    "location": "Mumbai, India",
+    "about": "Dr. Asha Mehta is a renowned cardiologist with over 15 years of experience in treating heart conditions. She specializes in preventive cardiology and cardiac rehabilitation."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohit Verma",
+    "specialization": "Dermatologist",
+    "profileImage": "/placeholder.svg?height=200&width=200",
+    "availability": "Fully Booked",
+    "schedule": [],
+    "experience": "12 years",
+    "rating": 4.6,
+    "location": "Delhi, India",
+    "about": "Dr. Rohit Verma is an expert dermatologist specializing in skin disorders, cosmetic dermatology, and dermatosurgery. He has helped thousands of patients achieve healthy skin."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Priya Sharma",
+    "specialization": "Pediatrician",
+    "profileImage": "/placeholder.svg?height=200&width=200",
+    "availability": "Available Today",
+    "schedule": ["2025-08-03T09:00", "2025-08-03T11:30", "2025-08-03T15:00", "2025-08-03T17:00"],
+    "experience": "10 years",
+    "rating": 4.9,
+    "location": "Bangalore, India",
+    "about": "Dr. Priya Sharma is a dedicated pediatrician who provides comprehensive healthcare for children from infancy through adolescence. She is known for her gentle approach with young patients."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Arjun Singh",
+    "specialization": "Orthopedic Surgeon",
+    "profileImage": "/placeholder.svg?height=200&width=200",
+    "availability": "Available Tomorrow",
+    "schedule": ["2025-08-04T08:00", "2025-08-04T13:00"],
+    "experience": "18 years",
+    "rating": 4.7,
+    "location": "Chennai, India",
+    "about": "Dr. Arjun Singh is a skilled orthopedic surgeon specializing in joint replacement, sports injuries, and trauma surgery. He has performed over 2000 successful surgeries."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Kavya Reddy",
+    "specialization": "Gynecologist",
+    "profileImage": "/placeholder.svg?height=200&width=200",
+    "availability": "Available Today",
+    "schedule": ["2025-08-03T10:30", "2025-08-03T14:30", "2025-08-03T16:00"],
+    "experience": "14 years",
+    "rating": 4.8,
+    "location": "Hyderabad, India",
+    "about": "Dr. Kavya Reddy is an experienced gynecologist providing comprehensive women's healthcare including prenatal care, family planning, and gynecological surgeries."
+  }
+]
