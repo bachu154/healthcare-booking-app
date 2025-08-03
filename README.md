@@ -196,14 +196,4 @@ npm run lint
 - **Testing**: Unit and integration test coverage
 - **PWA**: Progressive Web App capabilities
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read the contributing guidelines before submitting PRs.
-
----
-
-**Built with ❤️ using TypeScript, React, and Next.js**
+**Built with using TypeScript, React, and Next.js**
